@@ -8,6 +8,7 @@ const direct = "DIRECT;";
 const hasOwnProperty = Object.hasOwnProperty;
 
 const china_domains = {
+  "researchgate.net": 1,
   "ieee.org": 1,
   "sciencedirect.com": 1,
   "engineeringvillage.com": 1,
