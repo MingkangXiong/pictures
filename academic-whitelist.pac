@@ -2461,7 +2461,6 @@ const china_domains = {
   "cutefishos.com": 1,
   "h3c.com": 1,
   "hisense.com": 1,
-  "translate.googleapis.com": 1,
   "freedgo.com": 1,
   "uiiiuiii.com": 1,
   "cnpet.cc": 1,
