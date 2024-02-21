@@ -34,7 +34,6 @@ const china_domains = {
   "worldscientific.com": 1,
   "cnpereading.com": 1,
   "tmall.com": 1,
-  "qq.com": 1,
   "baidu.com": 1,
   "sohu.com": 1,
   "taobao.com": 1,
