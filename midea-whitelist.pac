@@ -152,7 +152,6 @@ const china_domains = {
   "douyin.com": 1,
   "duomai.com": 1,
   "cnad.com": 1,
-  "youdao.com": 1,
   "yxdown.com": 1,
   "d1net.com": 1,
   "xiaomi.com": 1,
