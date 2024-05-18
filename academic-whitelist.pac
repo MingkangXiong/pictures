@@ -8,6 +8,7 @@ const direct = "DIRECT;";
 const hasOwnProperty = Object.hasOwnProperty;
 
 const china_domains = {
+  "bianxieai.com": 1,
   "laozicloud.com": 1,
   "seetacloud.com": 1,
   "zhejianglab.com": 1,
